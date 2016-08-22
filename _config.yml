@@ -11,7 +11,7 @@ title:            Confessions Of An Aspie
 tagline:          'Life with Aspergers'
 description:      'One person`s view on a confusing world.'
 url:              http://confessionsofanaspie.net
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Michael SanAngelo'
