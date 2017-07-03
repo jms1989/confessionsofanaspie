@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I don't care
+comments: true
 ---
 
 I don't care about a lot of things. Here me out. If you happen to be one of the billions, and chances are you are, that follow some sort of news source; the world is in chaos. That's not the point of this post, well sort of.

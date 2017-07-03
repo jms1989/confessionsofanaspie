@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Post
+comments: true
 ---
 
 Hello. Technically this is the second post but whatever. My name is Michael, you may have seen my tech blog called "The Lone Geek". I talk about tech related stuff when I get around to it. This blog can be takened as a viewpoint of one with aspergers. I'm going to try to write about my self, I'm not too great at it actually. There's something about just spewing personal details for the world to see that kinda makes me uncomfortable.
